@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98777133161",
+    "firebase_url": "https://authentication-test-for-harman.firebaseio.com",
+    "project_id": "authentication-test-for-harman",
+    "storage_bucket": "authentication-test-for-harman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98777133161:android:b2e958032aa30990",
+        "android_client_info": {
+          "package_name": "com.harman.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98777133161-sbq115lu8scr6jgim79sh85icnj2ulcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harman.authentication",
+            "certificate_hash": "d7302f376af44665c59d8ea9399511808eea0cd0"
+          }
+        },
+        {
+          "client_id": "98777133161-teiherhu510n9b9uhqqo84dq3oh9eunh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaZYDv4YHT23prNb6YzUrOjW1Zm6C1jus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98777133161-teiherhu510n9b9uhqqo84dq3oh9eunh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
